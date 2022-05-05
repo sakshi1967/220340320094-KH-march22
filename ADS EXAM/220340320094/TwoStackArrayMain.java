@@ -18,7 +18,7 @@ import java.util.*;
 		    top1--;
 			arr[top1] = x;
 		}else{
-		     //System.out.println("Stack overflow by element :"+x );
+		     
 			 return;
 		}
 	}
@@ -27,7 +27,7 @@ import java.util.*;
 		    top2++;
 			arr[top2] = x;
 		}else{
-		     //System.out.println("Stack overflow by element :"+x );
+		     
 			 return;
 		}
 	}
